@@ -4,3 +4,4 @@
 * 수정하고 add는 하지 않음
 * vscode를 사용하여  add, commit, push 하기
 * 라이언 아주 싫어요
+* tag 추가함
